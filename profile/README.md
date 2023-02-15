@@ -1,12 +1,11 @@
-## Hi there 👋
+(toekomstige logo)
 
-<!--
+# 👾 SpaceDammers
 
-**Here are some ideas to get you started:**
+Welkom bij SpaceDammers! Dit is een variant op het normale damspel, maar dan met een 🚀 ruimtethema. <br/>
+Het is gemaakt door <a href='https://github.com/chrinsieboy'>@chrinsieboy</a> en @Anneliekevdk. De basisregels zijn hetzelfde als bij gewoon dammen, maar in plaats van traditionele stenen, gebruik je 🚀 ruimteschepen om je tegenstander te verslaan. <br /><br />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Een leuk feitje over dammen in de ruimte is dat het spel eigenlijk al in de ruimte is gespeeld! <br />
+In 1970 nam de Sovjet-Unie een damspel mee op hun ruimtemissie en speelden de kosmonauten een aantal potjes in de ruimte. 🛰️ <br /><br />
+
+Dus waarom speel je niet je eigen potje SpaceDammers en test je je vaardigheden in de ruimte! Veel speelplezier! 🎮
