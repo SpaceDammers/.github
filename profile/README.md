@@ -11,3 +11,5 @@ Een leuk feitje over dammen in de ruimte is dat het spel eigenlijk al in de ruim
 In 1970 nam de Sovjet-Unie een damspel mee op hun ruimtemissie en speelden de kosmonauten een aantal potjes in de ruimte. 🛰️ <br /><br />
 
 Dus waarom speel je niet je eigen potje SpaceDammers en test je je vaardigheden in de ruimte! Veel speelplezier! 🎮
+
+<a href="https://www.flaticon.com/free-icons/rocket" title="rocket icons">Rocket icons created by Freepik - Flaticon</a>
