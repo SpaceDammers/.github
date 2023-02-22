@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src='https://github.com/SpaceDammers/.github/blob/main/profile/github%20image.png?raw=true' style='text-align: center;' />
+  <img width="100%" src='https://github.com/SpaceDammers/.github/blob/main/profile/github%20image2.png?raw=true' style='text-align: center;' />
 </p> <br /> <br /> 
 
 # 👾 SpaceDammers
